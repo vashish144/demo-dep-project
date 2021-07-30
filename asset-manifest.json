@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/demo-dep-project/static/css/main.a617e044.chunk.css",
+    "main.js": "/demo-dep-project/static/js/main.68ff4cc1.chunk.js",
+    "main.js.map": "/demo-dep-project/static/js/main.68ff4cc1.chunk.js.map",
+    "runtime-main.js": "/demo-dep-project/static/js/runtime-main.08491cd3.js",
+    "runtime-main.js.map": "/demo-dep-project/static/js/runtime-main.08491cd3.js.map",
+    "static/css/2.455652b6.chunk.css": "/demo-dep-project/static/css/2.455652b6.chunk.css",
+    "static/js/2.fae958d6.chunk.js": "/demo-dep-project/static/js/2.fae958d6.chunk.js",
+    "static/js/2.fae958d6.chunk.js.map": "/demo-dep-project/static/js/2.fae958d6.chunk.js.map",
+    "static/js/3.4f3026ff.chunk.js": "/demo-dep-project/static/js/3.4f3026ff.chunk.js",
+    "static/js/3.4f3026ff.chunk.js.map": "/demo-dep-project/static/js/3.4f3026ff.chunk.js.map",
+    "index.html": "/demo-dep-project/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/demo-dep-project/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/demo-dep-project/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fae958d6.chunk.js.LICENSE.txt": "/demo-dep-project/static/js/2.fae958d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/demo-dep-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08491cd3.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.fae958d6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.68ff4cc1.chunk.js"
+  ]
+}
